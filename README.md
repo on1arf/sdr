@@ -8,7 +8,7 @@
 [Youtube](https://youtube.sdra.io)
 
 
-* UBA Belgian SDR Meetup (online): Wednesday 1st of July 2020 
+* UBA Belgian SDR Meetup (online): Wednesday 1st of July 2020 20h (CEST)
 [jitsi](https://meet.jit.si/UBABelgianSDRMeetup)
 
 
