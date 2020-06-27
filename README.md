@@ -12,11 +12,11 @@
 
 ### "getting to know eachother" meetups
 
-* UBA Belgian SDR Meetup (online): Wednesday 1st of July 2020, 20:00 CEST
+* UBA Belgian SDR Meetup (online): Wednesday 01/07/2020, 20:00 CEST
 [jitsi](https://meet.jit.si/UBABelgianSDRMeetup)
 
 ### Past events with video-archive
-* Free Radio Software Devroom at FOSDEM 2020: Sunday 2th of February 2020
+* Free Radio Software Devroom at FOSDEM 2020: Sunday 02/02/2020
 [schedule and video archive](https://fosdem.org/2020/schedule/track/free_software_radio/)
 
 
