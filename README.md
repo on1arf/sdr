@@ -11,3 +11,5 @@
 * UBA Belgian SDR Meetup (online): Wednesday 1st of July 2020 
 [jitsi](https://meet.jit.si/UBABelgianSDRMeetup)
 
+
+Please contact me (on1arf@uba.be) to be added to this list
