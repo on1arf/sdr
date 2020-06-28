@@ -21,4 +21,4 @@
 
 
 ### Updates:
-Please contact me (on1arf@uba.be) to be added to this list
+Please contact me (on1arf@uba.be) to be added to this list or do a git pull
