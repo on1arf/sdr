@@ -16,7 +16,7 @@
 [jitsi](https://meet.jit.si/UBABelgianSDRMeetup)
 
 ### Past events with video-archive
-* Free Radio Software Devroom at FOSDEM 2020: Sunday 02/02/2020
+* Free Software Radio Devroom at FOSDEM 2020: Sunday 02/02/2020
 [schedule and video archive](https://fosdem.org/2020/schedule/track/free_software_radio/)
 
 
