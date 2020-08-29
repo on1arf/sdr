@@ -3,7 +3,7 @@
 
 Opmerking:  
 Deze lijst is een subset van de lijst "SDR Resources" lijst te vinden hier:  
-[sdr Resources](https://github.com/on1arf/sdr/blob/master/links.md)
+[Sdr Resources - all languages](https://github.com/on1arf/sdr/blob/master/links.md)
   
   
 # SDR door / voor Radio Amateurs
