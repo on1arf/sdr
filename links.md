@@ -110,8 +110,8 @@ An open-source generalized API and runtime library for interfacing with SDR devi
 [website] (https://wiki.gnuradio.org/index.php/Tutorials)
 
 * "GNU Radio, learning the basics" by Jarno Baselier  
-In dutch:
-A 3-part video-course on starting out with GNU Radio on Linux.
+In dutch:  
+An extensive 3-part article on starting out with GNU Radio on Linux.  
 [part1] (https://jarnobaselier.nl/gnu-radio-learning-the-basics-13/)  
 [part2] (https://jarnobaselier.nl/gnu-radio-learning-the-basics-23/)  
 [part3] (https://jarnobaselier.nl/gnu-radio-learning-the-basics-33/)  
