@@ -18,9 +18,9 @@ Beschikbaar via de website van ONZ:
 * "GNU Radio, learning the basics" by Jarno Baselier  
 In tegenstelling tot wat de titel doet vermoeden, een Nederlandstalige artikelreeks over beginnen met GNU Radio.  
   
-[part1] (https://jarnobaselier.nl/gnu-radio-learning-the-basics-13/)  
-[part2] (https://jarnobaselier.nl/gnu-radio-learning-the-basics-23/)  
-[part3] (https://jarnobaselier.nl/gnu-radio-learning-the-basics-33/)  
+[Deel 1] (https://jarnobaselier.nl/gnu-radio-learning-the-basics-13/)  
+[Deel 2] (https://jarnobaselier.nl/gnu-radio-learning-the-basics-23/)  
+[Deel 3] (https://jarnobaselier.nl/gnu-radio-learning-the-basics-33/)  
 
 
 
