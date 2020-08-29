@@ -1,9 +1,10 @@
 # sdr information
 
 ## SDR Resources: Links  
+* In English:
 [sdr links](https://github.com/on1arf/sdr/blob/master/links.md)
   
-### SDR related links in Dutch:
+* In Dutch:
 [sdr links NL](https://github.com/on1arf/sdr/blob/master/linksnl.md)
 
 ## SDR related events in 2020  
