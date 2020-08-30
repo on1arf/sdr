@@ -13,7 +13,7 @@ For that, especially people who are new to GNU Radio- to already take the time t
 the excellent "Software Defined Radio with HackRF" video-course by Michael Ossmann.  
   
 The videos can be found here:  
-[sdr with the hackRF] (https://greatscottgadgets.com/sdr/)  
+[sdr with the hackRF](https://greatscottgadgets.com/sdr/)  
   
 The complete videocourse is 11 video's in total, totalling in about 2 hours of viewing-time. If you do not have time to watch them all, The following ones are
 the most interesting to give a good first impression of some of the topics that will be discussed during the meetup:  
