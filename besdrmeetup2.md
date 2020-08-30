@@ -25,6 +25,16 @@ the most interesting to give a good first impression of some of the topics that 
 * [7 Complex Numbers in DSP] (https://greatscottgadgets.com/sdr/7/)  
   
 
+## Understanding signals:  
+SDR is based on signal-processing. These two videos provide some background on two aspects of SDR that do not exist in analog electronics:
+IQ signals and negative Frequencies:  
+  
+* Basics of IQ Signals and IQ modulation & demodulation - A tutorial  
+[video](Basics of IQ Signals and IQ modulation & demodulation - A tutorial)  
+  
+* Negative Frequencies  
+[video](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)
+
 See you at the Meetup!  
   
 Kristoff - ON1ARF  
