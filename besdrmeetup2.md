@@ -18,11 +18,11 @@ The videos can be found here:
 The complete videocourse is 11 video's in total, totalling in about 2 hours of viewing-time. If you do not have time to watch them all, The following ones are
 the most interesting to give a good first impression of some of the topics that will be discussed during the meetup:  
   
-* [1 Welcome] (https://greatscottgadgets.com/sdr/1/)  
-* [2 DSP] (https://greatscottgadgets.com/sdr/2/)  
-* [4 Mysteries] (https://greatscottgadgets.com/sdr/4/)  
-* [6 Complex Numbers] (https://greatscottgadgets.com/sdr/6/)  
-* [7 Complex Numbers in DSP] (https://greatscottgadgets.com/sdr/7/)  
+* [1 Welcome](https://greatscottgadgets.com/sdr/1/)  
+* [2 DSP](https://greatscottgadgets.com/sdr/2/)  
+* [4 Mysteries](https://greatscottgadgets.com/sdr/4/)  
+* [6 Complex Numbers](https://greatscottgadgets.com/sdr/6/)  
+* [7 Complex Numbers in DSP](https://greatscottgadgets.com/sdr/7/)  
   
 
 ## Understanding signals:  
@@ -30,7 +30,7 @@ SDR is based on signal-processing. These two videos provide some background on t
 IQ signals and negative Frequencies:  
   
 * Basics of IQ Signals and IQ modulation & demodulation - A tutorial  
-[video](Basics of IQ Signals and IQ modulation & demodulation - A tutorial)  
+[video](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)  
   
 * Negative Frequencies  
 [video](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)
