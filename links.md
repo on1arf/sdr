@@ -147,24 +147,23 @@ Also includes 'SigIntOS tool', which include a FM transmitter, IMSI catcher, GPS
 
 # Mathematics  
 Although there are a number of books on DSP and SDR that avoid to much math if possible, DSP and SDR are in its core completely based on math!  
-
+  
 For people who want to brush up the math, the khan academy has quite a few online courses on math at a more advanced level.  
-
-Very interesting is the learning-track on Electrical Engineering:
-[Electrical Engineering learning-track] (https://www.khanacademy.org/science/electrical-engineering)
-
-Some video's of particular interest to DSP and SDR are in the chapter on 'AC circuit Analysis':
-[Trigonometry review] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-trig-review)
-[Sine and cosine come from circles] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-circles)
-[Sine of time] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-of-time)
-[Sine and cosine from rotating vector] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-from-rotating-vector)
-[lead lag] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-lead-lag)
-[complex numbers] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-numbers)
-[negative frequencies] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)
-[AC analysis superposition] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-superposition)
-
-
-Some other courses:
+  
+Very interesting is the learning-track on Electrical Engineering:  
+[Electrical Engineering learning-track] (https://www.khanacademy.org/science/electrical-engineering)  
+  
+Some video's of particular interest to DSP and SDR are in the chapter on 'AC circuit Analysis':  
+[Trigonometry review] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-trig-review)  
+[Sine and cosine come from circles] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-circles)  
+[Sine of time] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-of-time)  
+[Sine and cosine from rotating vector] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-from-rotating-vector)  
+[lead lag] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-lead-lag)  
+[complex numbers] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-numbers)  
+[negative frequencies] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)  
+[AC analysis superposition] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-superposition)  
+  
+Some other courses:  
 * lineair algebra  
 [video-course] (https://www.khanacademy.org/math/linear-algebra) English  
 [video-course] (https://fr.khanacademy.org/math/linear-algebra) French  
