@@ -121,12 +121,50 @@ An extensive 3-part article on starting out with GNU Radio on Linux.
 [website] (https://lists.gnu.org/mailman/listinfo/discuss-gnuradio)
 
 
+# SDR and cybersecurity  
+* gr-inspector  
+"A signal analysis toolkit for GNU Radio"  
+[video FOSDEM 2017] https://video.fosdem.org/2017/AW1.120/grinspector.mp4  
+[github] (https://github.com/gnuradio/gr-inspector)  
+  
+* Inspectrum:  
+"A tool for analysing captured signals, primarily from software-defined radio receivers"  
+[github] (https://github.com/miek/inspectrum)  
+[article + video] https://www.rtl-sdr.com/inspectrum-a-new-tool-for-analyzing-captured-signals/  
+    
+* Pentoo linux  
+[download site] (https://pentoo.ch/downloads)  
+Linux distro for pentesting.  
+The LiveCD includes GNU Radio and gqrx.  
+Also included other 'wireless' cracking tools, e.g. for wifi and bluetooth hacking.  
+  
+* SigIntOS  
+[download site] (https://www.sigintos.com/downloads/)  
+Linux distro, includes GNU Radio and gqrx by default  
+Also includes 'SigIntOS tool', which include a FM transmitter, IMSI catcher, GPS transmittor, e.a.  
+(note: Use of this tool is illegal in Belgium)  
+  
+
 # Mathematics  
 Although there are a number of books on DSP and SDR that avoid to much math if possible, DSP and SDR are in its core completely based on math!  
 
 For people who want to brush up the math, the khan academy has quite a few online courses on math at a more advanced level.  
 
-Here are some course that can help you get a better understanding of DSP and SDR:
+Very interesting is the learning-track on Electrical Engineering:
+[Electrical Engineering learning-track] (https://www.khanacademy.org/science/electrical-engineering)
+
+Some video's of particular interest to DSP and SDR are in the chapter on 'AC circuit Analysis':
+[Trigonometry review] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-trig-review)
+[Sine and cosine come from circles] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-circles)
+[Sine of time] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-of-time)
+[Sine and cosine from rotating vector] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-from-rotating-vector)
+[lead lag] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-lead-lag)
+[complex numbers] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-numbers)
+[negative frequencies] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)
+[AC analysis superposition] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-superposition)
+
+
+Some other courses:
 * lineair algebra  
 [video-course] (https://www.khanacademy.org/math/linear-algebra) English  
 [video-course] (https://fr.khanacademy.org/math/linear-algebra) French  
