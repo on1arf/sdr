@@ -160,8 +160,8 @@ Some video's of particular interest to DSP and SDR are in the chapter on 'AC cir
   * [Sine and cosine from rotating vector] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-from-rotating-vector)  
   * [lead lag] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-lead-lag)  
   * [complex numbers] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-numbers)  
-  *[negative frequencies] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)  
-  *[AC analysis superposition] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-superposition)  
+  * [negative frequencies] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)  
+  * [AC analysis superposition] (https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-superposition)  
   
 Some other courses:  
 * lineair algebra  
