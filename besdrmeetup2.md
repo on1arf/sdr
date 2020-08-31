@@ -39,11 +39,10 @@ IQ signals and negative Frequencies:
 [video](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)  
 
 See you at the Meetup!  
-  
 Kristoff - ON1ARF  
   
-The meeting will be held online via jitsi. The URL is:
+The meeting will be held online via jitsi. The URL is:  
 [jitsi](https://meet.jit.si/UBABelgianSDRMeetup)
   
-The meetup starts friday 4/9/2020 at 20:00h.
-The presentation will start at 20:30h
+The meetup starts friday 4/9/2020 at 20:00h.  
+The presentation will start at 20:30h  
