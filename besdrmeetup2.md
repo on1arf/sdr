@@ -32,8 +32,11 @@ IQ signals and negative Frequencies:
 * Basics of IQ Signals and IQ modulation & demodulation - A tutorial  
 [video](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)  
   
+* Quadrature Mixers, IQ Demodulation, and the Tayloe Detector  
+[video](https://www.youtube.com/watch?v=JuuKF1RFvBM)  
+  
 * Negative Frequencies  
-[video](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)
+[video](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)  
 
 See you at the Meetup!  
   
