@@ -108,7 +108,11 @@ ISBN  978-0137027415
 
 * soapySDR  
   [github](https://github.com/pothosware/SoapySDR/wiki)  
-  An open-source generalized API and runtime library for interfacing with SDR devices
+  An open-source generalized API and runtime library for interfacing with SDR devices  
+  
+* Antenna connectors for RTL-SDR dongles  
+  [video](https://www.youtube.com/watch?v=9q2TYdo9cWY)  
+  An interesting overview of the different types of antenna connectors on SRTL-SDR dongles and how to go from one type of connector to another  
 
 # GNU Radio  
 * GNU Radio "Tutorials"  
