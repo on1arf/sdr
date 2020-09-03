@@ -30,7 +30,7 @@ SDR is based on signal-processing. These two videos provide some background on t
 IQ signals and negative Frequencies:  
   
 * Basics of IQ Signals and IQ modulation & demodulation - A tutorial  
-[video](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)  
+[video](https://www.youtube.com/watch?v=h_7d-m1ehoY)  
   
 * Quadrature Mixers, IQ Demodulation, and the Tayloe Detector  
 [video](https://www.youtube.com/watch?v=JuuKF1RFvBM)  
