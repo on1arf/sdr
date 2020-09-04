@@ -54,6 +54,11 @@ ISBN  978-0137027415
 
   DSP and SDR have a number of concepts that are quite now, e.g. I/Q sampling. This video explains the aspect of I/Q signals. 
 
+* I/Q data explained  
+  [article](https://www.pe0sat.vgnet.nl/sdr/iq-data-explained/)
+  
+  Interesting article on I/Q signals with a lot of visual effects to help explain the concept.  
+
 * Quadrature Mixers, IQ Demodulation, and the Tayloe Detector
   [video](https://www.youtube.com/watch?v=JuuKF1RFvBM)  
 
