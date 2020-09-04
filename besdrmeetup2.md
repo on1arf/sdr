@@ -35,6 +35,9 @@ IQ signals and negative Frequencies:
 * Quadrature Mixers, IQ Demodulation, and the Tayloe Detector  
 [video](https://www.youtube.com/watch?v=JuuKF1RFvBM)  
   
+* I/Q data explained  
+[article](https://www.pe0sat.vgnet.nl/sdr/iq-data-explained/)  
+  
 * Negative Frequencies  
 [video](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency)  
 
