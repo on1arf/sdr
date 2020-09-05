@@ -13,8 +13,6 @@
 
 # 2nd Belgian SDR Meetup:  
 Friday 4 September 2020 at 20h00, via jitsi.  
-
-More info here:  
-https://github.com/on1arf/sdr/blob/master/besdrmeetup2.md  
+https://github.com/on1arf/sdr/blob/master/BelgianSDRMeetups/besdrmeetup2.md   
 
 Note: DO take a look at the "must see video's" list. It will really help to you better understand SDR and how it works internally.
