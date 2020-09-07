@@ -5,7 +5,7 @@ options:
     cmake_opt: ''
     comment: ''
     copyright: gpl-3.0 or newer
-    description: rtty decoder for DWD at 147.3 KHz, sends decoded auto to UDP 225.0.0.1/10000
+    description: rtty decoder for DWD at 147.3 KHz, sends decoded audio to UDP 225.0.0.1/10000
       to external baudot decoder
     gen_cmake: 'On'
     gen_linking: dynamic
@@ -615,7 +615,7 @@ blocks:
     ant7: ''
     ant8: ''
     ant9: ''
-    args: rtl_tcp=0,direct_samp=2
+    args: rtl=0,direct_samp=2
     bb_gain0: '10'
     bb_gain1: '20'
     bb_gain10: '20'
