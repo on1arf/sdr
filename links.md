@@ -44,10 +44,19 @@ ISBN  978-0137027415
   I really like this one. This is a combination of a book, an online course and a large number of GNU Radio flowgraphs. The really nice thing is that he uses GNU Radio as an educational tool, allowing you to learn and really experiment with the principles of Software Defined Radio.
 
 
+* pysdr: "PySDR: A Guide to SDR and DSP using Python"
+   [website](https://pysdr.org/)
+
+   A very interesting website / book explaining SDR from a 'coders' (programmers) point of view. Provides a very good overview and basic introduction in the major elements of DSP and DSP: the frequency domain, sampling theory, filters, channel coding and varies techniques used to help a radio-signal survive the harsh conditions of the radiochannel. Requires limited knowledge of math.
+
+
 * Wireless Communications from the Ground Up by Qasim Chaudhari  
   ISBN 978-1-729-73223-6  
   Book accompanying the "Wireless Pi" website and video-course mentioned above
 
+* "Radio logicielSDR + GNU Radio"
+  [pdf](http://stssnsb.free.fr/telecharger/blusson/stsse2/radiologiciel/Radiologiciel_sb.pdf)
+  In french: a nice introduction about SDR using GNU Radio, including some example-projects for both reception and transmission. 
 
 * Basics of I/Q Signals and I/Q modulation & demodulation - A tutorial  
   [video](https://www.youtube.com/watch?v=h_7d-m1ehoY)
@@ -77,7 +86,7 @@ ISBN  978-0137027415
   This started out as a website dedicated to the RTL-SDR dongle, but now contains a lot of information on different SDR related applications, using different SDR hardware devices.
 
 
-# SDR by / for Amateur radio
+## SDR by / for Amateur radio
 * SDR project by Paul ON5QM  
   Paul ON5QM for ONZ (Section Knokke) has extensive document on SDR for Amateur radio.  
   In dutch, available from the website of ONZ:  
@@ -105,7 +114,13 @@ ISBN  978-0137027415
   Search the videos that have a title that kind-of mentions SDR.
 
 
-# SDR Hardware, Drivers and tools:
+## SDR in Belgim:
+
+* "SDR Belgium" discussion room on GNU Radio chat-server 
+  [website](https://chat.gnuradio.org/#/room/#sdrbe:gnuradio.org)
+ 
+
+## SDR Hardware, Drivers and tools:
 
 * osmocom (Open Source Mobile Communications)  
   [website](https://osmocom.org/)
@@ -119,7 +134,8 @@ ISBN  978-0137027415
   [video](https://www.youtube.com/watch?v=9q2TYdo9cWY)  
   An interesting overview of the different types of antenna connectors on SRTL-SDR dongles and how to go from one type of connector to another  
 
-# GNU Radio  
+
+## GNU Radio  
 * GNU Radio "Tutorials"  
   [website](https://wiki.gnuradio.org/index.php/Tutorials)
 
@@ -130,12 +146,14 @@ ISBN  978-0137027415
   [part2](https://jarnobaselier.nl/gnu-radio-learning-the-basics-23/)  
   [part3](https://jarnobaselier.nl/gnu-radio-learning-the-basics-33/)  
 
+* GNU Radio Chat forum:
+  [website](https://chat.gnuradio.org/)
 
 * GNU Radio mailing-list:
   [website](https://lists.gnu.org/mailman/listinfo/discuss-gnuradio)
 
 
-# SDR and cybersecurity  
+## SDR, CTFs and cybersecurity  
   * gr-inspector  
   "A signal analysis toolkit for GNU Radio"  
   [video FOSDEM 2017]https://video.fosdem.org/2017/AW1.120/grinspector.mp4  
@@ -145,7 +163,16 @@ ISBN  978-0137027415
   "A tool for analysing captured signals, primarily from software-defined radio receivers"  
   [github](https://github.com/miek/inspectrum)  
   [article + video](https://www.rtl-sdr.com/inspectrum-a-new-tool-for-analyzing-captured-signals/)  
-    
+  
+* Sig id guide:
+  "Signal Identification Guide"
+  [website](https://www.sigidwiki.com/)
+  Website that provides an overview of a large number of radio signals.
+  
+ * Universal Radio Hacker
+  [website](https://github.com/jopohl/urh)
+  "The Universal Radio Hacker (URH) is a complete suite for wireless protocol investigation with native support for many common Software Defined Radios. URH allows easy demodulation of signals combined with an automatic detection of modulation parameters making it a breeze to identify the bits and bytes that fly over the air."
+
 * Pentoo linux  
   [download site](https://pentoo.ch/downloads)  
   Linux distro for pentesting.  
@@ -159,7 +186,7 @@ ISBN  978-0137027415
   (note: Use of this tool is illegal in Belgium)  
   
 
-# Mathematics  
+## Mathematics  
   Although there are quite a number of books on DSP and SDR that avoid to much math if possible, DSP and SDR are in its core completely based on math!  
   
   For people who want to brush up the math, the khan academy has quite a few online courses on math at a more advanced level.  
