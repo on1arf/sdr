@@ -4,10 +4,10 @@
 
 Note:  
 Also check out this page on SDR-related information in Dutch:  
-[sdrlinks-nl](https://github.com/on1arf/sdr/blob/master/links-nl.md)
+[sdrlinks-nl](https://github.com/on1arf/sdr/blob/master/linksnl.md)
 
 Also check out this page on SDR-related information in French:  
-[sdrlinks-fr](https://github.com/on1arf/sdr/blob/master/links-fr.md)
+[sdrlinks-fr](https://github.com/on1arf/sdr/blob/master/linksfr.md)
 
   
 ## On DSP:
