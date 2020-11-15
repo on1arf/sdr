@@ -57,7 +57,8 @@ ISBN  978-0137027415
   Book accompanying the "Wireless Pi" website and video-course mentioned above
 
 * "Radio logicielSDR + GNU Radio"  
-  [pdf](http://stssnsb.free.fr/telecharger/blusson/stsse2/radiologiciel/Radiologiciel_sb.pdf)
+  [pdf](http://stssnsb.free.fr/telecharger/blusson/stsse2/radiologiciel/Radiologiciel_sb.pdf)  
+
   In french: a nice introduction about SDR using GNU Radio, including some example-projects for both reception and transmission. 
 
 * Basics of I/Q Signals and I/Q modulation & demodulation - A tutorial  
@@ -166,13 +167,12 @@ ISBN  978-0137027415
   [github](https://github.com/miek/inspectrum)  
   [article + video](https://www.rtl-sdr.com/inspectrum-a-new-tool-for-analyzing-captured-signals/)  
   
-* Sig id guide:  
-  "Signal Identification Guide"
-  [website](https://www.sigidwiki.com/)
+* Sig id guide:  "Signal Identification Guide"  
+  [website](https://www.sigidwiki.com/)  
   Website that provides an overview of a large number of radio signals.
   
  * Universal Radio Hacker:  
-  [website](https://github.com/jopohl/urh)
+  [website](https://github.com/jopohl/urh)  
   "The Universal Radio Hacker (URH) is a complete suite for wireless protocol investigation with native support for many common Software Defined Radios. URH allows easy demodulation of signals combined with an automatic detection of modulation parameters making it a breeze to identify the bits and bytes that fly over the air."
 
 * Pentoo linux  
