@@ -83,6 +83,13 @@ ISBN  978-0137027415
 
   As the title says, a course for engineers so expect a lot more math.
 
+* "Ontwerp van een Software Defined RF-ontvanger voor Digital Radio Mondiale"  by Guus Colmanen and Jasmien Put (2007)  
+  [pdf](https://lib.ugent.be/fulltxt/RUG01/001/311/894/RUG01-001311894_2010_0001_AC.pdf)  
+  (In dutch). Graduation paper by Colmanen and Put for the EE-engineering department of the University of Ghent from 2007 about the design of a SDR receiver for DRM (Digital Radio Mondiale). A very extensive document providing a excelent overview of SDR receiver technology. 
+
+* "SDR à  conversion  numérique  directe. comment  fonctionne  ce  qui est dans la boite noire et comment évaluer les performances" by Jean-François FLAMÉE (ON4IJ)  
+  [pdf](https://on5vl.org/fichiers/sdr.pdf)  
+  (in french). A very extensive document on direct conversion SDR receivers, including a very well written theoretical background on sampling, IQ-sampling and methodes to do quality measurements on this type of SDR receiver architecture.   
 
 * rtl-sdr.com  
   [website](https://www.rtl-sdr.com/)  
@@ -157,6 +164,13 @@ ISBN  978-0137027415
 
 
 ## SDR, CTFs and cybersecurity  
+  * BE.SDR CTFs:  
+  [Website]https://github.com/on1arf/sdr/tree/master/iqfiles  
+
+  CTF2: "when (date/time) was this file created?"  (hint: the question is a hint by itself)    
+  CTF3: "find the flag" (Hint: "filter. filter and match")  
+  CTF4: "find the flag, amateur-radio style!"  
+
   * gr-inspector  
   "A signal analysis toolkit for GNU Radio"  
   [video FOSDEM 2017]https://video.fosdem.org/2017/AW1.120/grinspector.mp4  
